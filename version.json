@@ -3,7 +3,6 @@
   "dll_version": "2.1.0",
   "loader_url": "https://github.com/WinterFellCore/versions/raw/refs/heads/main/Loader.exe",
   "dll_url": "https://github.com/WinterFellCore/versions/raw/refs/heads/main/FreeFire.dll",
-  "users_online": 1337,
-  "product_status": "online",
+  "product_status": "maintenance",
   "changelog": "- Added auto-update system\n- Fixed memory leaks\n- Improved ESP performance\n- Updated offsets for latest version"
 }
