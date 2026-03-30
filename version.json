@@ -4,5 +4,5 @@
   "loader_url": "https://github.com/WinterFellCore/versions/raw/refs/heads/main/Loader.exe",
   "dll_url": "https://github.com/WinterFellCore/versions/raw/refs/heads/main/FreeFire.dll",
   "product_status": "online",
-  "changelog": "- Added auto-update system\n- Fixed memory leaks\n- Improved ESP performance\n- Updated offsets for latest version"
+  "changelog": "- Added no Recoil and Mouse Aim smooth 1"
 }
