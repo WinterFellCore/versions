@@ -1,6 +1,6 @@
 {
   "loader_version": "2.1.0",
-  "dll_version": "2.1.5",
+  "dll_version": "2.1.1",
   "loader_url": "https://github.com/WinterFellCore/versions/raw/refs/heads/main/Loader.exe",
   "dll_url": "https://github.com/WinterFellCore/versions/raw/refs/heads/main/FreeFirev2.1.1.dll",
   "product_status": "online",
